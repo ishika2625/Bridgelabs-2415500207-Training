@@ -1,4 +1,4 @@
-🚀 Bridgelabz Java Learning Journey — 2415500370
+🚀 Bridgelabz Java Learning Journey — 2415500207
 
 Welcome to my Java Training Log & Practice Repository, created as part of the Bridgelabz 2025 program.
 This repository documents my continuous growth in Java — with each branch representing a dedicated learning module, organized for clarity, revision, and real-world application.
@@ -97,9 +97,3 @@ Each branch holds the complete code & exercises for that specific topic.
 - File I/O
 - JDBC
 - Mini projects
-
-💬 Connect
-- 📌 GitHub: @code-rachit18
-- 📌 LinkedIn (optional): add your link if needed
-- 📌 GitHub: @code-rachit18
-- 📌 LinkedIn (optional): add your link if needed
